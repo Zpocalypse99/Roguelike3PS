@@ -1,0 +1,13 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/broyl/OneDrive/Desktop/Full Sail/Game Integration/Roguelike3PS/Roguelike3PS/Roguelike3PS/Content/BasicMap.umap",
+				"C:/Users/broyl/OneDrive/Desktop/Full Sail/Game Integration/Roguelike3PS/Roguelike3PS/Roguelike3PS/Content/Maps/BasicMap.umap"
+			]
+		}
+	]
+}
