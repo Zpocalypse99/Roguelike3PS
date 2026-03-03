@@ -6,7 +6,8 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Users/broyl/OneDrive/Desktop/Full Sail/Game Integration/Roguelike3PS/Roguelike3PS/Roguelike3PS/Content/BasicMap.umap",
-				"C:/Users/broyl/OneDrive/Desktop/Full Sail/Game Integration/Roguelike3PS/Roguelike3PS/Roguelike3PS/Content/Maps/BasicMap.umap"
+				"C:/Users/broyl/OneDrive/Desktop/Full Sail/Game Integration/Roguelike3PS/Roguelike3PS/Roguelike3PS/Content/Maps/BasicMap.umap",
+				"C:/Users/broyl/OneDrive/Desktop/Full Sail/Game Integration/Roguelike3PS/Roguelike3PS/Roguelike3PS/Content/Actors/BP_BaseCharacter.uasset"
 			]
 		}
 	]
